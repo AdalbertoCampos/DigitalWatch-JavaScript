@@ -1,0 +1,27 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    background: #212529;
+    color: white;
+}
+
+div {
+    text-align: center;
+    height: 280px;
+    width: 450px;
+    background: #2565AE;
+    position: absolute;
+    top: 28%;
+    left: 32%;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #66D3FA;
+    box-shadow: #2565AE 0px 50px 100px -20px, #2565AE 0px 30px 60px -30px;
+}
+
+.display1 {
+    font-size: 60px;
+}
+
+.display2 {
+    font-size: 30px;
+}
